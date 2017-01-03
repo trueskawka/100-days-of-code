@@ -39,26 +39,35 @@ makes it hard to handle moving nodes around and lining them up properly.
 I think tomorrow I'll try to make an initial visualization in d3.js instead.
 
 **Link(s) to work**
+
 [current simple idea in p5.js](projects/MindMap)
 
 #### Inspirations
 
 [GoJS Mind Map](http://gojs.net/latest/samples/mindMap.html)
+
 [d3.js implementation idea](http://recordssoundthesame.com/blog/2014/01/18/mindmapping-with-javascript/)
+
 [MindMup MapJs](https://github.com/mindmup/mapjs)
+
 [Music Boxes](https://googlecreativelab.github.io/coder-projects/projects/music_boxes/) [current CSS]
 
 
 #### Resources
 
 [Using the Web Storage API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API/Using_the_Web_Storage_API)
+
 [storing objects in localStorage](http://stackoverflow.com/questions/2010892/storing-objects-in-html5-localstorage) [ideas for storing nodes]
 
 
 ### Project ideas
 
 [Karan Goel's mega project list](https://github.com/karan/Projects)
+
 [r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/wiki/challenges)
+
 [Quora JS projects ideas](https://www.quora.com/What-are-some-good-JavaScript-projects-to-practice)
+
 [Coder Projects](https://googlecreativelab.github.io/coder-projects/)
+
 [OS Projects for beginners](https://github.com/MunGell/awesome-for-beginners)
