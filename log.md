@@ -12,7 +12,7 @@
 2. []()
 -->
 
-### Day 1: January 1, 2016
+### Day 1: January 3, 2016
 
 **Today's Progress**
 
@@ -40,7 +40,7 @@ I think tomorrow I'll try to make an initial visualization in d3.js instead.
 
 **Link(s) to work**
 
-[current simple idea in p5.js](projects/MindMap)
+[current simple idea in p5.js](projects/MindMap/p5)
 
 #### Inspirations
 
@@ -58,15 +58,26 @@ I think tomorrow I'll try to make an initial visualization in d3.js instead.
 
 [storing objects in localStorage](http://stackoverflow.com/questions/2010892/storing-objects-in-html5-localstorage) [ideas for storing nodes]
 
-### Day 2: January 2, 2016
+### Day 2: January 4, 2016
 
 **Today's Progress**:
+I've recreated yesterday's p5.js simple script in d3.js - it took some time
+since I didn't know the basics of d3.js.
 
 **Thoughts**:
+This looks more promising, as d3.js has an ability to store and update data,
+allowing for elements to move around.
+
+I hope to start earlier tomorrow - today I've been a bit too tired to work
+on this.
 
 **Link(s) to work**:
-1. []()
-2. []()
+[current simple idea in d3.js](projects/MindMap/d3)
+
+#### Resources
+
+[d3.js mouse events](http://bl.ocks.org/WilliamQLiu/76ae20060e19bf42d774)
+[SVG basic shapes](https://www.dashingd3js.com/svg-basic-shapes-and-d3js)
 
 ### Project ideas
 
