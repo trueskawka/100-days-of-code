@@ -52,13 +52,21 @@ I think tomorrow I'll try to make an initial visualization in d3.js instead.
 
 [Music Boxes](https://googlecreativelab.github.io/coder-projects/projects/music_boxes/) [current CSS]
 
-
 #### Resources
 
 [Using the Web Storage API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API/Using_the_Web_Storage_API)
 
 [storing objects in localStorage](http://stackoverflow.com/questions/2010892/storing-objects-in-html5-localstorage) [ideas for storing nodes]
 
+### Day 2: January 2, 2016
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+1. []()
+2. []()
 
 ### Project ideas
 
